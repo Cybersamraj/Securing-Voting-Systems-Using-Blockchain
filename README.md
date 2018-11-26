@@ -1,7 +1,7 @@
 # Securing-Voting-Systems-Using-Blockchain
 The purpose of this code is to show the front end approach to a practical use of blockchain in voting systems.
 We start by creating a class for both the block and the blockchain.
-The block class entails the method of hashing and and the return values to be presented.
+The block class contains the method of hashing and then return the values to be presented.
 Each block will show:
 -Block Hash
 -Block No
