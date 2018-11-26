@@ -20,4 +20,4 @@ The selection of candidtaes to be voted for are:
 There are various error handling measures implemented throughout the code.
 Once you have made your vote, it will be added to the chain and you will be directed backto the home screen.
 This process may be repeated and for each time it is the chain will get longer and its length displayed.
-This work was done by CYBER SMARAJ
+This work was done by CYBER SAMRAJ.
