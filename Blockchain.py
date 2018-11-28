@@ -39,7 +39,7 @@ class Blockchain(object):
     target = 2 ** (256 - diff)
 
     chain = []
-    chain.append(Block("GENESIS", 0,0))
+    chain.append(Block("GENESIS", 1,0))
 
     def add(self, block):
         block.previous_hash = self.block.hash()
@@ -86,7 +86,7 @@ def login():
     id=input("\n PLEASE ENTER YOU ID NUMBER:")
 
 
-    if id == "1234": #default ID
+    if id == "1234": #Default ID
         vote()
 
     else:
@@ -138,5 +138,4 @@ def vote():
         vote()
 
 
-## has some importance, never change
 main()
