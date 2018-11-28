@@ -10,6 +10,8 @@ Each block will show:
 - Block Data
 - Time Stamp
 
+The hashing of the block is done through the sha-256 algorithim which is detailed more in the report.
+The first block is labeled as Genesis as part of the blockchain heurestics.
 There will be a home screen which will allow you to access the voting sysytem with the login id:
 - 1234
 
